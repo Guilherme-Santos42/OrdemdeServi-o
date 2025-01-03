@@ -1,4 +1,4 @@
-# OrdemdeServi-o
+# OrdemdeServiço
 Site que cria e realiza organização de chamados de atendimento
 
 <h2> Página de Login</h2>
